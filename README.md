@@ -1,2 +1,0 @@
-# winevaultapp
-wine vault app
